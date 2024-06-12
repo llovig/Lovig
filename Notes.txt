@@ -1,0 +1,2 @@
+# this is a place to put random notes on GIT projects here at the lovig factory.
+#
